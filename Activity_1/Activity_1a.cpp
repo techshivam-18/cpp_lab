@@ -67,9 +67,8 @@ int main(){
     cout<<"\tCreating Object...\n"<<endl;
     student s; //Creating object of class
     s.display(); //calling member functions
-    s.input();
+    s.input(); //calling member fuction input
     s.display();
         
-
     return 0;
 }
