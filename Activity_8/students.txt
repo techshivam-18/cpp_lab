@@ -1,5 +1,0 @@
-bompi,139,69
-sachin,124,90
-shivam,132,97
-preet,133,99
-abc,555,45
